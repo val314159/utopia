@@ -1,0 +1,8 @@
+Q 30
+Q 20
+L sub
+C -3
+Q $##[%d]##
+L println ;comment here
+C -3
+X 0

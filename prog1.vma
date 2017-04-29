@@ -1,0 +1,21 @@
+Q 30
+Q 20
+L add ;comment here
+C -3
+Y 1
+Q 11
+C -1
+Y 1
+J -9
+X 0
+
+Q 700
+Y -4
+Q 800
+Q 34
+Q 21
+L add ;comment here2
+C -3
+R R
+
+G 0 ;; loopy -------------------------
